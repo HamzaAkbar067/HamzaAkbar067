@@ -1,6 +1,6 @@
 ### About Me
 
-Hey there! 👋 I'm Hamza Akbar, a passionate Full Stack Developer with 5+ years of experience in Software Development. Currently based in Aachen, Germany, I'm on the lookout for exciting opportunities within Germany, that challenge me and allow me to contribute my skills to meaningful projects. 
+Hey there! 👋 I'm Hamza Akbar, a passionate Full Stack Developer with 5+ years of experience in Software Development. I'm on the lookout for exciting opportunities to contribute my skills to meaningful projects. 
 Please feel free to contact me at [hakbar067@gmail.com](mailto:hakbar067@gmail.com) to discuss potential collaborations or to engage in tech-related discussions!
 
 ### 🚀 My Expertise
