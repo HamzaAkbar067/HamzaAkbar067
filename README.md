@@ -13,3 +13,5 @@ I  am proficient in both frontend and backend development, working with a wide r
 - **Styling**: CSS, SCSS/SASS, Tailwind CSS, Material-UI
 - **Testing**: Jest, Cypress, Selenium
 - **Additional Skills**: Websockets, Responsive Design, UI component testing
+- 
+#### Backend Development:
