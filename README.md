@@ -1,17 +1,19 @@
+<h1 align="center">Hi 👋, I'm Hamza Akbar</h1>
+<h3 align="center">A passionate Software Developer in Germany.</h3>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
+
 ### About Me
 
-Hey there! 👋 I'm Hamza Akbar, a passionate Full Stack Developer with 5+ years of experience in Software Development. I'm on the lookout for exciting opportunities to contribute my skills to meaningful projects. 
+I've 5+ years of experience in web development, proficient in both frontend and backend development. I work with a diverse range of technologies and frameworks to bring ideas to life.
 Please feel free to contact me at [hakbar067@gmail.com](mailto:hakbar067@gmail.com) to discuss potential collaborations or to engage in tech-related discussions!
 
-### 🚀 My Expertise
-
-I  am proficient in both frontend and backend development, working with a wide range of technologies and frameworks to bring ideas to life. Here's a snapshot of my technical prowess:
-
-#### Frontend Development:
-- **Frameworks**: React, Vue.js, Angular
-- **State Management**: Redux, Vuex, MobX
-- **Styling**: CSS, SCSS/SASS, Tailwind CSS, Material-UI
-- **Testing**: Jest, Cypress, Selenium
-- **Additional Skills**: Websockets, Responsive Design, UI component testing
-- 
-#### Backend Development:
+#### Programming Languages and Tools:
+- TypeScript / JavaScript / Java / Python / PHP
+- React / Next.js / React Native / Vue.js / Angular
+- Node.js / Spring Boot
+- MySQL / MongoDB
+- SOAP APIs / RESTful API / Swagger / Third-party API
+- Cypress / Selenium / Jest / Cucumber
+- Scrum / Jira / Kanban
+- Docker / Jenkins / Linux
