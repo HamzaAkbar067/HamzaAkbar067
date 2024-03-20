@@ -12,7 +12,7 @@ Please feel free to contact me at [hakbar067@gmail.com](mailto:hakbar067@gmail.c
 - TypeScript / JavaScript / Java / Python / PHP
 - React / Next.js / React Native / Vue.js / Angular
 - Node.js / Spring Boot
-- MySQL / MongoDB
+- MySQL / PostgreSQL / MongoDB
 - SOAP APIs / RESTful API / Swagger / Third-party API
 - Cypress / Selenium / Jest / Cucumber
 - Scrum / Jira / Kanban
