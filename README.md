@@ -5,7 +5,7 @@
 
 ### About Me
 
-I've 5+ years of experience in web development, proficient in both frontend and backend development. I work with a diverse range of technologies and frameworks to bring ideas to life.
+I have experience in web development, proficient in both **frontend** and **backend** development. I work with a diverse range of technologies and frameworks to bring ideas to life.
 Please feel free to contact me at [hakbar067@gmail.com](mailto:hakbar067@gmail.com) to discuss potential collaborations or to engage in tech-related discussions!
 
 #### Programming Languages and Tools:
