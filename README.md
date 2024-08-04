@@ -1,6 +1,12 @@
 <h1 align="center">Hi 👋, I'm Hamza Akbar</h1>
 <h3 align="center">A passionate Software Developer</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
+<table>
+<tr>
+<td><img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="450"></td>
+<td><img src="https://leetcard.jacoblin.cool/hakbar067" width="500"></td>
+</tr>
+</table>
 
 
 ### About Me
